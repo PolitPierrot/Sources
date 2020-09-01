@@ -30,3 +30,7 @@ Using Montana on 31 August for example,
 <img src="https://render.githubusercontent.com/render/math?math=\large increase = (\frac{6943}{448}-1) \times 100 = 1450">
 </div>
 the increase in cases is calculated to be 1450%.
+
+## Generated
+
+![Alt text](../Images/RankIncrease.png?raw=true "Ranking increase since 25 May")
