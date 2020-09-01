@@ -21,8 +21,12 @@ An investigation into how COVID-19 has been spread disproportionately in Republi
 ### Percentage Increase
 This is the increase in cases. To clarify, going from 100 to 120 cases is a 20% increase.
 
-$$ increase = (\frac{cases_b}{cases_a} - 1) \times 100 $$
+<div align="center">
+<img src="https://render.githubusercontent.com/render/math?math=\large increase = (\frac{cases_b}{cases_a} - 1) \times 100">
+</div>
 
 Using Montana on 31 August for example,
-$$ increase = (\frac{6943}{448}-1) \times 100 = 1450 $$
-the increase in cases is calculated to 1450%.
+<div align="center">
+<img src="https://render.githubusercontent.com/render/math?math=\large increase = (\frac{6943}{448}-1) \times 100 = 1450">
+</div>
+the increase in cases is calculated to be 1450%.
